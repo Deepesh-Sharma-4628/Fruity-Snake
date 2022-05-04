@@ -8,5 +8,6 @@ And define the color in RGB format that we are going to use in our game for disp
 
 
 ![image](https://user-images.githubusercontent.com/104193104/166729193-29738016-ff0a-4469-a146-d9154a01ef89.png)
+
 Step 2:  Initialize Screen width and Height. Use pygame.display.set_mode to display game window.
 Now Use pygame.image.load to load background image , welcome window image, game over image and fruits image.
