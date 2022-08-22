@@ -25,5 +25,11 @@ Step 3: Set title for game using pygame.display.set_caption("Odyssey").Then use 
 
 ![image](https://user-images.githubusercontent.com/104193104/185970830-701ee5c3-7e78-4d97-9e76-a99663ca317c.png)
 
-
 Step 4:Now we will create Welcome Screen.
+
+![image](https://user-images.githubusercontent.com/104193104/185972008-7e79decd-0a7c-4a56-a8ae-ba1aeb52e1d6.png)
+
+![image](https://user-images.githubusercontent.com/104193104/185972295-8fd50fa1-934d-4425-a774-1c1549c613f0.png)
+
+Step 5:At Last we will write our gameloop function which contain logic of snake game.
+
